@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Sentiment Analysis Web Application
 
-An NLP-based machine learning application that analyzes product reviews and classifies them as **Positive** or **Negative**.
+An NLP-based machine learning application that analyzes product reviews and classifies them as **Positive** or **Negative**. 
 
  Project Overview
 
